@@ -1,3 +1,8 @@
+*{
+    list-style: none;
+    text-decoration: none;
+}
+
 .landing{
     background-image: url(./img/pexels-tatiana-fet-420381-1105766.jpg);
     background-position: center;
